@@ -16,5 +16,5 @@
 - 応用情報技術者試験（令和4年春季　受かっててほしい）
 
 ## アカウント
-- AtCoder：(https://atcoder.jp/users/takemoto3561)
-- Kaggle：(https://www.kaggle.com/takemotomizuki)
+- AtCoder：<https://atcoder.jp/users/takemoto3561>
+- Kaggle：<https://www.kaggle.com/takemotomizuki>
