@@ -13,7 +13,7 @@
 - [StudyMemory](https://study-memory.web.app)：勉強記録用アプリ
 
 ## 資格
-- 応用情報技術者試験（令和4年春季　受かっててほしい）
+- 応用情報技術者試験
 
 ## アカウント
 - AtCoder：<https://atcoder.jp/users/takemoto3561>
